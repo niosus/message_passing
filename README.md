@@ -1,4 +1,3 @@
-CV
-==
+Message Passing
 
-Computer Vision
+This is a version of Message Passing algorithm implemented for Computer Vision course at Uni Freiburg
